@@ -7,8 +7,8 @@ It showcases my skills, projects, and hands-on experience in cloud computing, da
 
 ## 🚀 Live Demo
 
- 🌍 GitHub Pages: 
- ☁️ AWS EC2: http://your-elastic-ip
+ 🌍 GitHub Pages: https://aarthy28.github.io/aaru-cloud-portfolio
+ ☁️ AWS EC2: http://13.63.149.28
 
 ---
 
@@ -41,9 +41,9 @@ I configured and managed an AWS EC2 instance, installed and set up Nginx, and de
 
 ## 📂 Projects Included
 
-* 🔹 Job Market Analyzer (Python, Data Analysis)
-* 🔹 AI Resume Analyzer (AI Tools)
-* 🔹 Cloud Hosted Website (AWS EC2 + Nginx)
+ 🔹 Job Market Analyzer (Python, Data Analysis)
+ 🔹 AI Resume Analyzer (AI Tools)
+ 🔹 Cloud Hosted Website (AWS EC2 + Nginx)
 
 ---
 
@@ -59,9 +59,9 @@ I configured and managed an AWS EC2 instance, installed and set up Nginx, and de
 
 ## 📬 Contact
 
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 🔗 GitHub: https://github.com/yourusername
-
+ 📧 Email: aarthymalar312@gmail.com
+ 🔗 GitHub: https://github.com/Aarthy28
+ 💼 LinkedIn: https://www.linkedIn.com/in/aarthy289
 ---
 
 ## ⭐ Note
